@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513467503421",
+    "project_id": "fanpage-12ec4",
+    "storage_bucket": "fanpage-12ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513467503421:android:52dfac48f91fea4628eb54",
+        "android_client_info": {
+          "package_name": "com.sonal.fanpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513467503421-p6ri5j482rlatfaircpn88mtf1vbps6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sonal.fanpage",
+            "certificate_hash": "2b87c4dbc0d9c2b36f31d37c54e55c366dde2ba1"
+          }
+        },
+        {
+          "client_id": "513467503421-8seiu410ldln3o1jlis934cmq3fqsb4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6iAeU1QkVlzrQsLHZcD21U7q_tnCD3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513467503421-8seiu410ldln3o1jlis934cmq3fqsb4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
